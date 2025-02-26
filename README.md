@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rizkulloh Alpriyansah</h1>
 <h3 align="center">i'm interested frontend developer and Graphical Design</h3>
-<table width="100%">
+<table width="100%" aligen="center">
   <tr>
     <td align="left">
       <h3>Connect with me:</h3>
