@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rizkulloh Alpriyansah</h1>
 <h3 align="center">i'm interested frontend developer and Graphical Design</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://instagram.com/rizzz.ex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rizzz.ex" height="30" width="40" /></a>
 </p>
 
