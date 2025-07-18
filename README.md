@@ -40,7 +40,7 @@
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="ReactJS" />
     <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-    <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="VueJS" />
+<!--     <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="VueJS" /> -->
     <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress" />
 
   <br>
@@ -85,10 +85,10 @@
 
 <div align="center">
   <div style="display: flex; justify-content: center; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notfirsttt&layout=compact&theme=dracula" style="width: 49%;" />
-    <img src="https://github-readme-stats.vercel.app/api?username=notfirsttt&layout=compact&theme=dracula" style="width: 30%;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notfirsttt&layout=compact&theme=dracula" style="width: 37%;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=notfirsttt&layout=compact&theme=dracula" style="width: 40%;" />
   </div>
 </div>
 
-
+<br>
 ---
