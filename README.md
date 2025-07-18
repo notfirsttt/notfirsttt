@@ -84,8 +84,11 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notfirsttt&layout=compact&theme=dracula" />
-  <img src="https://github-readme-stats.vercel.app/api?username=notfirsttt&layout=compact&theme=dracula" />
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notfirsttt&layout=compact&theme=dracula" style="width: 49%;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=notfirsttt&layout=compact&theme=dracula" style="width: 30%;" />
+  </div>
 </div>
+
 
 ---
