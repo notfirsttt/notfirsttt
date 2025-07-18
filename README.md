@@ -9,7 +9,7 @@
 
   <br>
 
-  ![snake gif](https://github.com/notfirsttt/notfirsttt/blob/output/github-contribution-grid-snake-dark.svg)
+ ![snake gif](https://github.com/notfirsttt/notfirsttt/blob/output/github-snake-dark.svg)
 
   <br>
 
